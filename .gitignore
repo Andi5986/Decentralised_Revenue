@@ -1,0 +1,15 @@
+# .gitignore
+
+# Ignore Python build artifacts
+__pycache__
+*.py[cod]
+
+# Ignore all .csv files
+*.csv
+
+# Ignore all .log files
+*.log
+
+# Ignore environment related directories
+.env
+.venv
